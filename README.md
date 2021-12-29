@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at larrywhitefield14@gmail.com! I'll try to respond as soon as I can.\
 
 ### :headphones: &nbsp;Currently Listening on Spotify
-[![Spotify](https://novatorem-iamprashsri.vercel.app/api/spotify)](https://open.spotify.com/user/31nmdymq6mwhzylttmd5db5agjwa)
+<!-- [![Spotify](https://novatorem-iamprashsri.vercel.app/api/spotify)](https://open.spotify.com/user/31nmdymq6mwhzylttmd5db5agjwa) -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/iamPrashSri/iamPrashSri/master/assets/Night-Coding.gif" align="right"/>
 
