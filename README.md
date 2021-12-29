@@ -1,15 +1,14 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prashant</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Larry</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Prashant -->
+<!-- ## 👋 &nbsp;Hey there! I'm Larry -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm an undergraduate student in Computer Science and Engineering from Government College of Engineering, Aurangabad(Class of 2016).\
-🎓 &nbsp;I've been working as an R&D Software Engineer - II at Dassault Systems(June'2016 - Present).\
+🎓 &nbsp;I'm an undergraduate student in Computer Science and Engineering from Georgia State University, Aurangabad(Class of 2008).\
+🎓 &nbsp;I've been working as an Website Software Engineer. \
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Full Stack Web Development and Distributed Databases.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at prashant.srivastava@stonybrook.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1o0fKkXFMS1O5brSVCx093oaP6uELUZtE/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at larrywhitefield14@gmail.com! I'll try to respond as soon as I can.\
 
 ### :headphones: &nbsp;Currently Listening on Spotify
 [![Spotify](https://novatorem-iamprashsri.vercel.app/api/spotify)](https://open.spotify.com/user/31nmdymq6mwhzylttmd5db5agjwa)
@@ -43,9 +42,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-iamprashsri.vercel.app/api?username=iamPrashSri&include_all_commits=true&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats" />
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-iamprashsri.vercel.app/api/top-langs/?username=iamPrashSri&layout=compact&theme=radical&repo=github-readme-stats" />
 </a>
