@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm an undergraduate student in Computer Science and Engineering from Georgia State University, Aurangabad(Class of 2008).\
+🎓 &nbsp;I'm an undergraduate student in Computer Science and Engineering from Georgia State University (Class of 2008).\
 🎓 &nbsp;I've been working as an Website Software Engineer. \
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Full Stack Web Development and Distributed Databases.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.\
